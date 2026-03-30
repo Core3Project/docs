@@ -1,0 +1,42 @@
+- Getting Started
+  - [Introduction](getting-started.md)
+  - [Installation](installation.md)
+  - [Configuration](configuration.md)
+  - [Upgrading](upgrading.md)
+
+- Themes
+  - [Theme Structure](themes/structure.md)
+  - [Template Inheritance](themes/inheritance.md)
+  - [Template Reference](themes/templates.md)
+  - [Template Functions](themes/functions.md)
+  - [Creating a Theme](themes/creating.md)
+
+- Modules
+  - [Module Structure](modules/structure.md)
+  - [Module Settings](modules/settings.md)
+  - [Hooks Reference](modules/hooks.md)
+  - [Creating a Module](modules/creating.md)
+
+- Built-in Modules
+  - [SEO Meta](modules/builtin/seo-meta.md)
+  - [Sitemap](modules/builtin/sitemap.md)
+  - [Analytics](modules/builtin/analytics.md)
+  - [Search](modules/builtin/search.md)
+  - [Contact Form](modules/builtin/contact-form.md)
+  - [Cloudflare Turnstile](modules/builtin/turnstile.md)
+  - [Social Sharing](modules/builtin/social-sharing.md)
+  - [Cookie Consent](modules/builtin/cookie-consent.md)
+  - [Related Posts](modules/builtin/related-posts.md)
+  - [Backup](modules/builtin/backup.md)
+  - [Maintenance Mode](modules/builtin/maintenance-mode.md)
+  - [Disqus Comments](modules/builtin/disqus-comments.md)
+
+- Core Reference
+  - [Database (DB)](core/database.md)
+  - [Authentication](core/auth.md)
+  - [Settings](core/settings.md)
+  - [Routing](core/routing.md)
+  - [Markdown Parser](core/markdown.md)
+  - [Migrations](core/migrations.md)
+  - [Updater](core/updater.md)
+  - [Helper Functions](core/helpers.md)
